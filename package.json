@@ -1,0 +1,16 @@
+{
+  "name": "tuesday-lesson",
+  "version": "1.0.0",
+  "description": "Practice Code. Studying Node.js Core Modules",
+  "main": "app.js",
+  "dependencies": {
+    "md5": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Maddox",
+  "license": "ISC"
+}
